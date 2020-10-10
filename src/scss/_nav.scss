@@ -6,6 +6,10 @@
     padding-right: 30px;
     text-align: center;
 
+    ul {
+      list-style: none;
+    }
+
     a:link {
       color: $primary-color;
       text-decoration: none;
